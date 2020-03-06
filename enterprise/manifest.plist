@@ -11,22 +11,14 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://raw.githubusercontent.com/tangjugang/AHS-IPA/master/enterprise/AHSEnterprise.ipa</string>
+                    <string>https://tangjugang.github.io/AHS-IPA/enterprise/AHSEnterprise_Debug_4.18.0.ipa</string>
                 </dict>
-       <!--  可选，用于应用下载时图标显示
                 <dict>
                     <key>kind</key>
                     <string>display-image</string>
                     <key>url</key>
-                    <string>57*57尺寸的icon下载地址</string>
+                    <string>https://tangjugang.github.io/AHS-IPA/enterprise/img/57.png</string>
                 </dict>
-                <dict>
-                    <key>kind</key>
-                    <string>full-size-image</string>
-                    <key>url</key>
-                    <string>512*512尺寸的icon下载地址</string>
-                </dict>
-            -->
             </array>
             <key>metadata</key>
             <dict>
